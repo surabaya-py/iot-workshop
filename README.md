@@ -71,7 +71,14 @@ import blink_led.py
 ```
 
 ## test mqtt with paho-mqtt
+## test mqtt with paho-mqtt
+- install 
 
+```bash
+pip install paho-mqtt
+```
+
+-  run
 ```bash
 import paho.mqtt.publish as publish
 
